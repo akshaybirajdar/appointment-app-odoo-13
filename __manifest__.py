@@ -26,6 +26,8 @@
     'data': [
         'security/ir.model.access.csv',
         'data/sequence.xml',
+        'data/verify_num_url.xml',
+        'data/verify_num_access_key.xml',
         'wizards/create_appointment.xml',
         'wizards/num_verify.xml',
         'views/views.xml',
